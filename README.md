@@ -1,7 +1,7 @@
 ### Hi there I am Arpan 👋
 ### Web Developer from India
 
-![](Myskills.gif)
+![](https://github.com/arpan45/arpan45/blob/master/Myskills.gif)
 <!--
 **arpan45/arpan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
