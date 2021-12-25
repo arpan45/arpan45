@@ -1,5 +1,5 @@
 ### Hi there I am Arpan 👋
-### Web Developer from India
+### Software Developer from India
 
 ![](https://github.com/arpan45/arpan45/blob/master/Myskills.gif)
 <!--
