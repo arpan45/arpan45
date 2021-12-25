@@ -6,7 +6,14 @@ I am a <strong>Full Stack Developer</strong> based in India. I am a passionate d
 
 Aside from my job, I like to create and contribute to open source projects. That helps me to learn a ton of new stuff, grow as a developer and support other open source projects. Also I enjoy creating content on my [Youtube Channel](https://www.youtube.com/channel/UCrPtj3gx8MtsyoXjX0kP1hQ).
 
+- 🔭 I’m currently working on JavaScript | VueJS | NodeJS | Docker | Python | AWS
+- 🌱 I’m currently learning Kubernetes | Web3 | Blockchain
+- 💬 Ask me about Web Development
+- 📫 How to reach me: [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40ArpanQ)](https://twitter.com/ArpanQ)
+
 ### Latest From My Channel:
+
+Deploy MongoDb to Kubernetes Cluster
 
 [![Code With Arpan](https://img.youtube.com/vi/V5-0bJXTq4E/0.jpg)](https://www.youtube.com/watch?v=V5-0bJXTq4E)
 
