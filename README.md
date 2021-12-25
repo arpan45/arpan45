@@ -1,7 +1,7 @@
 ### Hi there I am Arpan 👋
 ### Software Developer from India
 [![Twitter](https://img.shields.io/badge/ArpanQ-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/ArpanQ)
-[![Arpan Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![Arpan Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9w6kzJ5B)
 
 I am a <strong>Full Stack Developer</strong> based in India. I am a passionate developer, open source enthusiast, and a coder who loves the web platform ( Specially JavaScript ).
 
@@ -53,19 +53,3 @@ Deploy MongoDb to Kubernetes Cluster
 
 [![Code With Arpan](https://img.youtube.com/vi/V5-0bJXTq4E/0.jpg)](https://www.youtube.com/watch?v=V5-0bJXTq4E)
 
-
-<!-- ![](https://github.com/arpan45/arpan45/blob/master/Myskills.gif) -->
-<!--
-**arpan45/arpan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
